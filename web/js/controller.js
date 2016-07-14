@@ -15,5 +15,16 @@ app.controller('myCtrl', function($scope, $http) {
 
     var jsonArray = JSON.parse(JSON.stringify(arr));
     $scope.songs = jsonArray;
-
+    
+    $scope.curretSong = "2";
+    
+    $scope.sendSong = function(){
+        console.log("Vmoa");
+        $http.post("/FillData", {
+            id: $scope.curretSong
+        }).success(function(respuesta){
+            console.log(respuesta);
+        });
+    };
+    
 });

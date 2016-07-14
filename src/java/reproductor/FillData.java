@@ -70,5 +70,6 @@ public class FillData {
         //fd.fill("Genero", ".txt", "genero");
         //fd.fill("Cancion", ".txt", "cancion");
         //fd.fill("Reproduccion", ".txt", "reproduccion");
+        fd.fill("Favorito", ".txt", "listafavoritos");
     }
 }
