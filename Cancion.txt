@@ -1,0 +1,106 @@
+1-Reckless Life-0-0-0-1
+2-Nice Boys-0-0-0-1
+3-Move to the City-0-0-0-1
+4-Mama Kin-0-0-0-1
+5-Welcome to the Jungle-0-0-1-1
+6-It's So Easy-0-0-1-1
+7-Nightrain-0-0-1-1
+8-Out Ta Get Me-0-0-1-1
+9-Mr. Brownstone-0-0-1-1
+10-Paradise City-0-0-1-1
+11-My Michelle-0-0-1-1
+12-Think About You-0-0-1-1
+13-Sweet Child o' Mine-0-0-1-1
+14-You're Crazy-0-0-1-1
+15-Anything Goes-0-0-1-1
+16-Rocket Queen-0-0-1-1
+17-eckless Life-0-0-2-1
+18-Nice Boys-0-0-2-1
+19-Move to the City-0-0-2-1
+20-Mama Kin-0-0-2-1
+21-Patience-0-0-2-1
+22-Used to Love Her-0-0-2-1
+23-You're Crazy-0-0-2-1
+24-One in a Million-0-0-2-1
+25-Right Next Door to Hell-0-0-3-1
+26-Dust N' Bones-0-0-3-1
+27-Live and Let Die-0-0-3-1
+28-Don't Cry-0-0-3-1
+29-Perfect Crime-0-0-3-1
+30-You Ain't the First-0-0-3-1
+31-Bad Obsession-0-0-3-1
+32-Back Off Bitch-0-0-3-1
+33-Double Talkin' Jive-0-0-3-1
+34-November Rain-0-0-3-1
+35-The Garden-0-0-3-1
+36-Garden Of Eden-0-0-3-1
+37-Don't Damn Me-0-0-3-1
+38-Bad Apples-0-0-3-1
+39-Dead Horse-0-0-3-1
+40-Coma-0-0-3-1
+41-Civil War-0-0-4-1
+42-14 Years-0-0-4-1
+43-Yesterdays-0-0-4-1
+44-Knockin' on Heaven's Door-0-0-4-1
+45-Get in the Ring-0-0-4-1
+46-Shotgun Blues-0-0-4-1
+47-Breakdown-0-0-4-1
+48-Pretty Tied Up-0-0-4-1
+49-Locomotive-0-0-4-1
+50-So Fine-0-0-4-1
+51-Estranged-0-0-4-1
+52-You Could Be Mine-0-0-4-1
+53-Don't Cry-0-0-4-1
+54-My World-0-0-4-1
+55-Since I Don't Have You-0-0-5-1
+56-New Rose-0-0-5-1
+57-Down on the Farm-0-0-5-1
+58-Human Being-0-0-5-1
+59-Raw Power-0-0-5-1
+60-Ain't It Fun-0-0-5-1
+61-Buick Makane-0-0-5-1
+62-Hair of the Dog-0-0-5-1
+63-Attitude-0-0-5-1
+64-Black Leather-0-0-5-1
+65-You Can't Put Your Arms Around a Memory-0-0-5-1
+66-I Don't Care About You-0-0-5-1
+67-Look at Your Game Girl-0-0-5-1
+68-Out ta Get Me-0-0-6-1
+69-Pretty Tied Up-0-0-6-1
+70-Yesterdays-0-0-6-1
+71-Move to the City-0-0-6-1
+72-You Could Be Mine-0-0-6-1
+73-Rocket Queen-0-0-6-1
+74-Sweet Child O' Mine-0-0-6-1
+75-Knockin' on Heaven's Door-0-0-6-1
+76-Don't Cry-0-0-6-1
+77-Estranged-0-0-6-1
+78-Paradise City-0-0-6-1
+79-Welcome to the Jungle-0-0-7-1
+80-Sweet Child O' Mine-0-0-7-1
+81-Patience-0-0-7-1
+82-Paradise City-0-0-7-1
+83-Knockin' on Heaven's Door-0-0-7-1
+84-Civil War-0-0-7-1
+85-You Could Be Mine-0-0-7-1
+86-Don't Cry-0-0-7-1
+87-November Rain-0-0-7-1
+88-Live and Let Die-0-0-7-1
+89-Yesterdays-0-0-7-1
+90-Ain't It Fun-0-0-7-1
+91-Since I Don't Have You-0-0-7-1
+92-Sympathy for the Devil-0-0-7-1
+93-Chinese Democracy-0-0-8-1
+94-Shackler's Revenge-0-0-8-1
+95-Better-0-0-8-1
+96-Street of Dreams-0-0-8-1
+97-If the World-0-0-8-1
+98-There Was A Time-0-0-8-1
+99-Catcher in the Rye-0-0-8-1
+100-Scraped-0-0-8-1
+101-Riad N' The Bedouins-0-0-8-1
+102-Sorry-0-0-8-1
+103-I.R.S.-0-0-8-1
+104-Madagascar-0-0-8-1
+105-This I Love-0-0-8-1
+106-Prostitute-0-0-8-1
